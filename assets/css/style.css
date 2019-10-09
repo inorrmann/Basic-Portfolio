@@ -1,0 +1,21 @@
+/** Heading & Navigation Bar **/
+
+h1 {
+    padding: 20px;
+    color: white;
+    background: teal;
+}
+
+.container {
+    padding: 100px;
+    margin-bottom: 20px;
+    color: white;
+    background: #666;
+    float: left;
+    width: 33%
+}
+
+#title-line {
+    padding: 20px;
+    background: grey;
+}
